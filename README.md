@@ -9,9 +9,13 @@ My goal is to apply data analytics to deliver actionable business insights, with
 ---
 ## 📂 Projects
 
-###  [Airbnb Data Exploration (Python EDA)](02_Python_Airbnb_EDA)
+###  [Airbnb Data Exploration (Python EDA)]
 **Skills:** Python (Pandas, Seaborn, Matplotlib)  
 **Summary:** Performed exploratory analysis on Airbnb listings to identify price trends, seasonal demand, and location-based patterns.
+
+### [Greek Economy Analysis (Python EDA)]
+**Skills** Python (Pandas, Seaborn, Matplotlib)
+**Summary** Explored the growth of the Greece's gdp and discovered some trends and patterns.
 
 ---
 ## 🔍 Skills
